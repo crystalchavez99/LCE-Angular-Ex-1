@@ -1,0 +1,8 @@
+.chores{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:sienna;
+}
+.chores li{
+  text-decoration: underline;
+  font-style: italic;
+}
